@@ -1,0 +1,3 @@
+No,Course ID,Course name,Class,Lecturer username,Lecturer name,Lecturer degree,Lecturer gender,Start date,End date,Number,Day of week,Start hour,Start minutes,End hour,End minute,Room,Day of week ,Start hour,Start minute,End hour,End minute,Room
+1,CS162,Introduction to Programming,19APCS2,dbtien,Dinh Ba Tien,TS,Male,4/6/2020,6/1/2020,2.00,TUE,7,30,9,30,I42,SAT,15,30,17,30,I42
+2,PH212,General Physics,19APCS2,nhnha,Nguyen Huu Nha,TS,Male,4/6/2020,6/1/2020,2.00,MON,15,30,17,30,I23,TUE,15,30,17,30,I23

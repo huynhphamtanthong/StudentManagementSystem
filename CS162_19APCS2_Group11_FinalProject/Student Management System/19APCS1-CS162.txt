@@ -1,0 +1,25 @@
+6
+19125010
+Bui Quang Minh
+0
+2001 9 27
+19125011
+Khau Dang Nhat Minh
+0
+2001 5 25
+19125014
+Ho Thi Ngoc Phuong
+1
+2001 7 17
+19125017
+Nguyen Lam Tuong
+0
+2001 4 16
+19125029
+Nguyen Ba Van Nhi
+1
+2001 9 16
+19125043
+Vu Thien Hoang
+0
+2001 12 20

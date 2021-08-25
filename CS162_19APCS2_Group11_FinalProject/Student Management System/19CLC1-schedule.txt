@@ -1,0 +1,39 @@
+2
+1
+CS162
+Introduction to Programming
+19CLC1
+dbtien
+Dinh Ba Tien
+TS
+0
+4 6 2020
+6 1 2020
+2
+FRI
+9 30
+11 30
+I42
+SAT
+9 30
+11 30
+I42
+2
+PH212
+General Physics
+19CLC1
+nhnha
+Nguyen Huu Nha
+TS
+0
+4 6 2020
+6 1 2020
+2
+FRI
+13 30
+15 30
+I23
+SAT
+15 30
+17 30
+I43

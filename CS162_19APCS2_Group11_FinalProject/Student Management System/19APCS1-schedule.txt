@@ -1,0 +1,62 @@
+3
+1
+CS162
+Introduction to Programming
+19APCS1
+dbtien
+Dinh Ba Tien
+TS
+0
+4 6 2020
+6 1 2020
+2
+MON
+7 30
+9 30
+I42
+MON
+9 30
+11 30
+I42
+2
+PH212
+General Physics
+19APCS1
+nhnha
+Nguyen Huu Nha
+TS
+0
+4 6 2020
+6 1 2020
+2
+WED
+13 30
+15 30
+I23
+THU
+15 30
+17 30
+I43
+3
+CM101
+Communication Management
+19APCS1
+dnvu
+Duong Nguyen Vu
+GS
+0
+4 6 2020
+6 20 2020
+3
+MON
+13 30
+15 30
+I11
+FRI
+15 30
+17 30
+I22
+SAT
+9 30
+11 30
+I34
